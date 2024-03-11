@@ -1,1 +1,0 @@
-# terraform-provision-multi-region-web-database-s3-bucket-on-aws
