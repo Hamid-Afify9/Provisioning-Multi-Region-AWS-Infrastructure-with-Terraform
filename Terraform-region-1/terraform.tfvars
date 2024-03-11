@@ -1,0 +1,6 @@
+region = "us-east-1"
+ami = "ami-006dcf34c09e50022"
+instance_type= "t2-micro"
+availability_zone= "us-east-1a"
+vpc_cidr="10.0.0.0/16"
+subnet_cidr = "10.0.0.0/24"
