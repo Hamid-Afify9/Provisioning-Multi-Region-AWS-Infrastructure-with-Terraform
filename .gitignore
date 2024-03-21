@@ -1,0 +1,5 @@
+#ignore .terraform directory
+./Project_East1/*
+./Project_East2/*
+#ignore .git dir
+.git/*
