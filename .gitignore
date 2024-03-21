@@ -1,5 +1,9 @@
 #ignore .terraform directory
 ./Project_East1/*
 ./Project_East2/*
-#ignore .git dir
-.git/*
+./Project_East1/terraform.tfstate
+./Project_East1/terraform.tfstate.backup
+./Project_East1/terraform.tfvars
+./Project_East2/terraform.tfstate
+./Project_East2/terraform.tfstate.backup
+./Project_East2/terraform.tfvars
